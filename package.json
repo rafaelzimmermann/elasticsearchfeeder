@@ -1,0 +1,26 @@
+{
+  "name": "elasticsearchfeeder",
+  "version": "0.0.1",
+  "description": "Helping Drica with elastic search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rafaelzimmermann/elasticsearchfeeder.git"
+  },
+  "dependencies": {
+    "futures": "2.3.3",
+    "cassandra-client": "0.14.8",
+    "elasticsearch": "1.0.3",
+    "futures": "2.3.3",
+    "nconf": "0.6.9",
+    "underscore": "1.5.2",
+    "winston": "0.7.2"
+  },
+  "author": "Rafael Zimmermann",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "4cce41313f07db6558537c72603bf5f01869ed45"
+}
